@@ -3,7 +3,7 @@
 // Основные данные 
 var fio               = "Таценко Валерiй Петров";
 var fio_en            = "Tatsenko Valerii";
-var birth             = "08.10.1978"; //дата рождения
+var birth             = "08.05.2007"; //дата рождения
 var date_give         = "03.11.2022"; //Дата видачи
 var date_out          = "03.11.2032"; // действителен до
 var organ             = "1801"; //орган что выдал документ
@@ -60,11 +60,12 @@ var isStudyEnabled    = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "1.png"; //эДок, паспорт,
-var photo_rights   = "zagran2.png"; //права
-var photo_students = "zagran2.png"; //диплом, студ
-var photo_zagran   = "zagran.png"; //загран
+var photo_passport = "image_2025-10-22_14-39-45.png"; //эДок, паспорт,
+var photo_rights   = "image_2025-10-22_14-39-45.png"; //права
+var photo_students = "image_2025-10-22_14-39-45.png"; //диплом, студ
+var photo_zagran   = "image_2025-10-22_14-39-45.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
