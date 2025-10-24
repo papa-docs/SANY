@@ -1,7 +1,7 @@
 // values.js
 
 // Основные данные 
-var fio               = "Таценко Валерiй Петров";
+var fio               = "Луценко Валентин Васильович";
 var fio_en            = "Tatsenko Valerii";
 var birth             = "08.05.2007"; //дата рождения
 var date_give         = "03.11.2022"; //Дата видачи
@@ -67,5 +67,6 @@ var photo_zagran   = "image_2025-10-22_14-39-45.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
